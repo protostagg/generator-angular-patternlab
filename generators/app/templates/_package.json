@@ -1,0 +1,11 @@
+/*
+TODO:Edit this file to use properties set by the Yeoman generator
+*/
+{
+  "name": "package",
+  "version": "0.0.0",
+  "devDependencies": {
+    "express": "^4.12.4",
+    "gulp": "^3.9.0"
+  }
+}
